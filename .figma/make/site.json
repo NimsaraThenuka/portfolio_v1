@@ -1,0 +1,10 @@
+{
+  "description": "Create a stunning, modern portfolio website that showcases your work with unique colors and professional design, tailored to highlight your personal brand.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
